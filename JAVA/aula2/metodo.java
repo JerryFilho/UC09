@@ -1,4 +1,4 @@
-package aula2;
+
 
 public class metodo {
     public static void newline(){

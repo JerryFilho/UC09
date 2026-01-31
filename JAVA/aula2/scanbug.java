@@ -1,6 +1,6 @@
-package aula2;
 
-import java.util.Scanner;
+
+    import java.util.Scanner;
 
 public class scanbug {
     public static void main(String[] args) {
