@@ -1,6 +1,7 @@
 package aula4;
 
 public class Revisao {
+/*
     void metodoCriadoOutraPalavra(){
 
         System.out.println("um texto");
@@ -23,5 +24,5 @@ public class Revisao {
 
 
 
-
+*/
 }
