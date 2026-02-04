@@ -1,0 +1,15 @@
+if (argumento de comparação){
+    trecho do codigo que sera executado
+        argumento de comparalçao for V
+    }
+    else {
+        esse trecho de codigo sera executado somente se o arg anterior do if for F
+    }
+    else if{
+
+
+    }
+    essa linha sempre sera executada? SEMPRE EXECUTADA
+
+
+    
