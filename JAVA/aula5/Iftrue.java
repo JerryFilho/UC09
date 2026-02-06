@@ -1,4 +1,4 @@
-package aula5;
+
 
 public class Iftrue {
     public static void main(String[] args) {
