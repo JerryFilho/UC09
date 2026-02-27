@@ -11,11 +11,10 @@ public class scanbug {
 
         System.out.print("Digite seu nome ");
         nome = in.nextLine();
-        in.nextLine();
         System.out.print("Digite sua idade ");
         idade = in.nextInt();
 
-        System.out.printf("Olá %s, sua idade é: %d\n",nome,idade);
+        System.out.printf("Olá %s, sua idade é %d Anos\n",nome,idade);
 
     }
 }

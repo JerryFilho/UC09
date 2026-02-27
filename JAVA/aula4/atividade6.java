@@ -2,7 +2,7 @@ package aula4;
 
 public class atividade6 {
     public static void main(String[] args) {
-        int num = 8;
+        int num = 5;
         switch (num) {
             case 1:
                 System.out.println("Domingo");

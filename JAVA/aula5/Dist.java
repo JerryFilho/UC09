@@ -1,4 +1,4 @@
-/* package aula5;
+ package aula5;
 
 public class Dist {
      //EXEMPLO DE DESENVOLVIMENTO INCCREMENTAL
@@ -28,4 +28,4 @@ public class Dist {
     }
 
 }
- */
+ 

@@ -1,11 +1,11 @@
 package aula4;
 
 public class Revisao {
-/*
-    void metodoCriadoOutraPalavra(){
+
+    static void metodoCriadoOutraPalavra(){
 
         System.out.println("um texto");
-        System.out.println(x);
+        System.out.println();
     
     }
 
@@ -18,11 +18,9 @@ public class Revisao {
         Double w;
         
         metodoCriadoOutraPalavra();
-
-        palavra;
     }
 
 
 
-*/
+
 }
