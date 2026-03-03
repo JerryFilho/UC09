@@ -8,7 +8,7 @@ public class MaratonaFilmes {
         double duracaoMedia = 2.5;
         double horasTotais;
         String classificacao;
-        boolean valido;
+        boolean valido; // Para validar se a quantidade de filmes é maior que zero ( Uma variável usada para verificar condições no programa)
 
         exibirCabecalho();
 
